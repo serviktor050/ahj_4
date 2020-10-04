@@ -1,0 +1,20 @@
+.img {
+    display: flex;
+  }
+  
+  .image-card {
+    margin-left: 5px;
+    opacity: 0.5;
+  }
+    
+  #input {
+    border-width: 5px;
+  }
+    
+  .valid {
+    border-color: green;
+  }
+
+  .invalid {
+    border-color: red;
+  }
